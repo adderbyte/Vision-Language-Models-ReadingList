@@ -22,14 +22,17 @@ Reading List for Vision Language Models
 * Diffusion Models
 
   .....
+  
+* Reinforcement Learning
+   
+  ...
+  
+
+### Vision-Language Models
 
 * Vision-Language Models
 
   ....
-
-* Reinforcement Learning
-  
-  ...
 
 * Generalist Agents
 
