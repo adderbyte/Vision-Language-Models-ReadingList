@@ -31,6 +31,8 @@ Reading List for Vision Language Models
 
   .....
 
+* Use Cases
+   (molecular discovery, climate change, protein structure ...)
 
 
 
