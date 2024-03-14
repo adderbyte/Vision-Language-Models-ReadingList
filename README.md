@@ -16,12 +16,20 @@ Reading List for Vision Language Models
 
 
 * Vision Transformers
+  
+   .....
 
 * Diffusion Models
 
+  .....
+
 * Vision-Language Models
 
+  ....
+
 * Generalist Agents
+
+  .....
 
 
 
