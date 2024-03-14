@@ -31,8 +31,10 @@ Reading List for Vision Language Models
 
   .....
 
+* Reinforcement Learning
+
 * Use Cases
-   (molecular discovery, climate change, protein structure ...)
+   (molecular discovery, weather, protein structure, protein folding,  ...)
 
 
 
