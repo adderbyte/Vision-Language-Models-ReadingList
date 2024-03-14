@@ -15,7 +15,15 @@ Reading List for Vision Language Models
   [An introduction to transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
 
 
-* Vision Transformers 
+* Vision Transformers
+
+* Diffusion Models
+
+* Vision-Language Models
+
+* Generalist Agents
+
+
 
 
 
