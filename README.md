@@ -28,6 +28,7 @@ Reading List for Vision Language Models
   ....
 
 * Reinforcement Learning
+  
   ...
 
 * Generalist Agents
