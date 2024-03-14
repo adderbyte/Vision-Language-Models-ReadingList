@@ -27,14 +27,16 @@ Reading List for Vision Language Models
 
   ....
 
+* Reinforcement Learning
+  ...
+
 * Generalist Agents
 
   .....
 
-* Reinforcement Learning
-
-* Use Cases
-   (molecular discovery, weather, protein structure, protein folding,  ...)
+* Use Cases (Downstream tasks)
+  
+   (molecular/drug discovery, weather, protein structure, disaster response systems   ...)
 
 
 
