@@ -13,7 +13,9 @@ Reading List for Vision Language Models
   [Transformers Family Lilian Weng Blog](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
   
   [An introduction to transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
+  
 
+----
 * Light and Efficient Transformers
 
   .....
