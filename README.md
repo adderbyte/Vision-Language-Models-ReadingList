@@ -14,6 +14,9 @@ Reading List for Vision Language Models
   
   [An introduction to transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
 
+* Light and Efficient Transformers
+
+  .....
 
 * Vision Transformers
   
