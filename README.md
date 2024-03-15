@@ -32,6 +32,7 @@ Reading List for Vision Language Models
    
   ...
   
+----
 
 ### Vision-Language Models
 
@@ -41,11 +42,12 @@ Reading List for Vision Language Models
 
 * Generalist Agents
 
-  .....
-
-* Use Cases (Downstream tasks)
+  [A generalist agent](https://arxiv.org/abs/2205.06175)
   
-   (molecular/drug discovery, weather, protein structure, disaster response systems   ...)
+----
+### Use Cases (Downstream Tasks)
+  
+   (molecular/drug discovery, genomics, weather, protein structure, disaster response systems, quality control,    ...)
 
 
 
