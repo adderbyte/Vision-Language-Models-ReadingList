@@ -61,6 +61,8 @@ Reading List for Vision Language Models
   [Scaling law for reward model overoptimization](https://arxiv.org/pdf/2210.10760.pdf)
 
   [RLHF Illustrations by hugging face and references](https://huggingface.co/blog/rlhf) ` web page - check reference list at end of article`
+
+  [Read Teaming LLMs](https://arxiv.org/pdf/2209.07858.pdf) `Important for sanitizing llm!`
    
   ...
   
