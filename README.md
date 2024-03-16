@@ -49,6 +49,8 @@ Reading List for Vision Language Models
   
    (molecular/drug discovery, genomics, weather, protein structure, disaster response systems, quality control,    ...)
 
+   Opportunities for use in resource constraints environment and devices ...
+
 
 
 
