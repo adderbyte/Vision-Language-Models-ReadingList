@@ -13,8 +13,8 @@ Reading List for Vision Language Models
   [Transformers Family Lilian Weng Blog](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
   
   [An introduction to transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
-  
 
+  
 ----
 * Light and Efficient Transformers
 
@@ -53,6 +53,8 @@ Reading List for Vision Language Models
   [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) `paper`
 
   [Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf)
+
+  [Training language models to follow human instructions](https://arxiv.org/pdf/2203.02155.pdf)
    
   ...
   
