@@ -28,11 +28,13 @@ Reading List for Vision Language Models
 
   .....
 
-* Contrastive Learning
+* Contrastive Learning (self-supervised learning)
   
   [Survey of Contrastive Learning (Sept. 2020)](https://arxiv.org/pdf/2010.05113.pdf)
   
   [Simple Framework for Contrastive Learning (2020) ](https://arxiv.org/pdf/2002.05709.pdf)
+
+  [Self-supervised learning: Generative and Contrastive](https://arxiv.org/pdf/2006.08218.pdf)
   
 * Reinforcement Learning
    
