@@ -44,6 +44,8 @@ Reading List for Vision Language Models
   
 * Reinforcement Learning
 
+  [Reinforcement Learning Sutton&Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+
   [A survey on model-based learning (2022) Fan-Ming et al ](https://arxiv.org/pdf/2206.09328.pdf)
 
   [Model-based reinforcement Learning: A survey (2022) Thomas et al ](https://arxiv.org/pdf/2006.16712.pdf)
@@ -62,7 +64,8 @@ Reading List for Vision Language Models
 
   [RLHF Illustrations by hugging face and references](https://huggingface.co/blog/rlhf) ` web page - check reference list at end of article`
 
-  [Read Teaming LLMs](https://arxiv.org/pdf/2209.07858.pdf) `Important for sanitizing llm!`
+  [Red Teaming LLMs](https://arxiv.org/pdf/2209.07858.pdf) `Important for sanitizing llm!`
+  
    
   ...
   
