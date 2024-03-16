@@ -48,7 +48,11 @@ Reading List for Vision Language Models
 
   [Model-based reinforcement Learning: A survey (2022) Thomas et al ](https://arxiv.org/pdf/2006.16712.pdf)
 
-  [Deep Reinforcement Learning (2023)](https://arxiv.org/pdf/2201.02135.pdf)
+  [Deep Reinforcement Learning (2023)](https://arxiv.org/pdf/2201.02135.pdf) `book draft`
+
+  [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) `paper`
+
+  [Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf)
    
   ...
   
