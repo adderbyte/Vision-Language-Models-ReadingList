@@ -58,7 +58,7 @@ Reading List for Vision Language Models
 
   [Survey on preference-based reinforcement learning methods (2017) ](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf)
 
-  [RLHF articles and some explanations by hugging face](https://huggingface.co/blog/rlhf) `page link - check article list`
+  [RLHF Illustrations by hugging face and references](https://huggingface.co/blog/rlhf) `page link - check reference list at end of article`
    
   ...
   
