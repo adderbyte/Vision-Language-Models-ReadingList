@@ -43,6 +43,8 @@ Reading List for Vision Language Models
   
   
 * Reinforcement Learning
+
+  [A survey on model-based learning (2022) ](https://arxiv.org/pdf/2206.09328.pdf)
    
   ...
   
