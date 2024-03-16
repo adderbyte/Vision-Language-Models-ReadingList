@@ -35,6 +35,11 @@ Reading List for Vision Language Models
   [Simple Framework for Contrastive Learning (2020) ](https://arxiv.org/pdf/2002.05709.pdf)
 
   [Self-supervised learning: Generative and Contrastive](https://arxiv.org/pdf/2006.08218.pdf)
+
+  [Contrastive Learning for NLP (Full Reading list)](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers?tab=readme-ov-file#contrastive-learning-objective)
+    `This is an exhaustive chronicle of papers on contrastive learning maintained by Rui Zhang et al - highly recommended`
+
+  
   
 * Reinforcement Learning
    
