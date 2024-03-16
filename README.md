@@ -38,6 +38,7 @@ Reading List for Vision Language Models
 
   [Contrastive Learning for NLP (Full Reading list)](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers?tab=readme-ov-file#contrastive-learning-objective)
     `This is an exhaustive chronicle of papers on contrastive learning maintained by Rui Zhang et al - highly recommended`
+  
 
   
   
