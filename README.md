@@ -20,13 +20,19 @@ Reading List for Vision Language Models
 
   .....
 
-* Vision Transformers
+* Vision Transformers 
   
    .....
 
-* Diffusion Models
+* Diffusion Models  
 
   .....
+
+* Contrastive Learning
+  
+  [Survey of Contrastive Learning (Sept. 2020)](https://arxiv.org/pdf/2010.05113.pdf)
+  
+  [Simple Framework for Contrastive Learning (2020) ](https://arxiv.org/pdf/2002.05709.pdf)
   
 * Reinforcement Learning
    
