@@ -56,7 +56,9 @@ Reading List for Vision Language Models
 
   [Training language models to follow human instructions](https://arxiv.org/pdf/2203.02155.pdf)
 
-  [Survey on preference-based reinforcement learning](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf)
+  [Survey on preference-based reinforcement learning methods (2017) ](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf)
+
+  [RLHF articles and some explanations by hugging face](https://huggingface.co/blog/rlhf) `page link - check article list`
    
   ...
   
