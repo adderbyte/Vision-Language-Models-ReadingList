@@ -42,7 +42,7 @@ Reading List for Vision Language Models
 
   
   
-* Reinforcement Learning
+* Reinforcement Learning (Plus: RL in LLMs)
 
   [Reinforcement Learning Sutton&Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
