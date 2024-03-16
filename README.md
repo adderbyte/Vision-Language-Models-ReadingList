@@ -58,6 +58,8 @@ Reading List for Vision Language Models
 
   [Survey on preference-based reinforcement learning methods (2017) ](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf)
 
+  [Scaling law for reward model overoptimization](https://arxiv.org/pdf/2210.10760.pdf)
+
   [RLHF Illustrations by hugging face and references](https://huggingface.co/blog/rlhf) ` web page - check reference list at end of article`
    
   ...
