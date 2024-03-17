@@ -27,11 +27,16 @@ Reading List for Vision Language Models
 
   .....
 
-* Vision Transformers 
+* Vision Transformers
+
   
    .....
 
 * Diffusion Models
+
+  [Deep Unsupervised Learning using Nonequilibrium Thermodynamics (2015)](https://arxiv.org/abs/1503.03585)
+
+  [Scalable Diffusion Models with Transformers (2022)](https://arxiv.org/abs/2212.09748)
 
   [Diffusion models Lilian Weng Blog ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
