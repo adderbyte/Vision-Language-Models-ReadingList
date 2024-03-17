@@ -38,6 +38,8 @@ Reading List for Vision Language Models
 
   [Scalable Diffusion Models with Transformers (2022)](https://arxiv.org/abs/2212.09748)
 
+  [Diffusion Models: A comprehensive survey (2022)](https://arxiv.org/abs/2209.00796)
+
   [Diffusion models Lilian Weng Blog ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
   [Score-Based Generative Modelling Yang Song Blog](https://yang-song.net/blog/2021/score/) `highly recommended`
