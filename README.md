@@ -12,7 +12,7 @@ Reading List for Vision Language Models
   
   [Transformers Family Lilian Weng Blog](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
   
-  [An introduction to transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
+  [An introduction to Transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
 
   
 ----
@@ -27,6 +27,8 @@ Reading List for Vision Language Models
 * Diffusion Models
 
   [Diffusion models Lilian Weng Blog ](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
+  [Score-Based Generative Modelling Yang Song Blog](https://yang-song.net/blog/2021/score/) `highly recommended`
 
   .....
 
