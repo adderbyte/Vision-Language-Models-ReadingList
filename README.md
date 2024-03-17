@@ -16,6 +16,8 @@ Reading List for Vision Language Models
 
   [Neural Machine Translation by jointly learning to align and translate (2014)](https://arxiv.org/abs/1409.0473) `precursor to transformer`
 
+  [A survey of transformers (2021)](https://arxiv.org/abs/2106.04554)
+
   
 ----
 * Light and Efficient Transformers
