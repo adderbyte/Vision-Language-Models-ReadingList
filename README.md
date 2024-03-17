@@ -52,7 +52,7 @@ Reading List for Vision Language Models
 
   [Deep Reinforcement Learning (2023)](https://arxiv.org/pdf/2201.02135.pdf) `book draft`
 
-  [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) `paper`
+  [Learning to summarize from human feedback (2022) ](https://arxiv.org/pdf/2009.01325.pdf) `main:openai`
 
   [Deep Reinforcement Learning from Human Preferences (2017) ](https://arxiv.org/pdf/1706.03741.pdf) `influential`
 
