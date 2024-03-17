@@ -54,7 +54,7 @@ Reading List for Vision Language Models
 
   [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) `paper`
 
-  [Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf)
+  [Deep Reinforcement Learning from Human Preferences (2017) ](https://arxiv.org/pdf/1706.03741.pdf) `influential`
 
   [Training language models to follow human instructions](https://arxiv.org/pdf/2203.02155.pdf)
 
