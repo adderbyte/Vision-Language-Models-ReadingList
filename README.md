@@ -44,6 +44,9 @@ Reading List for Vision Language Models
 
   [Score-Based Generative Modelling Yang Song Blog](https://yang-song.net/blog/2021/score/) `highly recommended`
 
+  [Consistency models 2023](https://arxiv.org/abs/2303.01469) `recent`
+
+
   .....
 
 * Contrastive Learning (self-supervised learning)
