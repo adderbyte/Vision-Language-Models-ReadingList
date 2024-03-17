@@ -17,6 +17,11 @@ Reading List for Vision Language Models
   
 ----
 * Light and Efficient Transformers
+  
+  [A practical survey on Faster and lighter Transformer (2021)](https://arxiv.org/abs/2103.14636)
+
+  [Efficient Transformer: A survey (2020)](https://arxiv.org/abs/2009.06732)
+
 
   .....
 
