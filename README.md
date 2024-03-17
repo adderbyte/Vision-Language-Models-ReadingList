@@ -14,7 +14,7 @@ Reading List for Vision Language Models
   
   [An introduction to Transformers Prof. Turner](https://arxiv.org/pdf/2304.10557.pdf)
 
-  [Neural Machine Translation by jointly learning to align and translate (2014)](https://arxiv.org/abs/1409.0473)
+  [Neural Machine Translation by jointly learning to align and translate (2014)](https://arxiv.org/abs/1409.0473) `precursor to transformer`
 
   
 ----
