@@ -26,6 +26,8 @@ Reading List for Vision Language Models
 
   [Efficient Transformer: A survey (2020)](https://arxiv.org/abs/2009.06732)
 
+  [LoRA: Low-Rank Adaptation of language models (2021) ](https://arxiv.org/pdf/2106.09685.pdf)
+
 
   .....
 
