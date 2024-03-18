@@ -105,6 +105,10 @@ Reading List for Vision Language Models
 * Generalist Agents
 
   [A generalist agent](https://arxiv.org/abs/2205.06175)
+
+  [Scaling Agent Acrosss many Simulated Worlds (SIMA)](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf) `see blog post below`
+
+  [SIMA - Blog post](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/?utm_source=twitter&utm_medium=social&utm_campaign=SIMA/)
   
 ----
 ### Use Cases (Downstream Tasks)
