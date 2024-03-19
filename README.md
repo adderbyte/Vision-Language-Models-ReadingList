@@ -71,6 +71,8 @@ Reading List for Vision Language Models
 
   [Reinforcement Learning Sutton&Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
+  [Reinforcement Learning: Bit by Bit](https://arxiv.org/pdf/2103.04047.pdf)
+
   [A survey on model-based learning (2022) Fan-Ming et al ](https://arxiv.org/pdf/2206.09328.pdf)
 
   [Model-based reinforcement Learning: A survey (2022) Thomas et al ](https://arxiv.org/pdf/2006.16712.pdf)
