@@ -1,4 +1,6 @@
 
 ### Optimal transport
 
-- [Awesome List for optimal transport](https://github.com/PythonOT/POT)
+- [Python Optimal Transport](https://github.com/PythonOT/POT)
+
+  
