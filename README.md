@@ -50,6 +50,8 @@ Reading List for Vision Language Models
 
   [Consistency models 2023](https://arxiv.org/abs/2303.01469) `recent`
 
+  [Tutorial for Diffusion for Imaging and Vision](https://arxiv.org/abs/2403.18103) `new summary!`
+
 
   .....
 
