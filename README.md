@@ -112,7 +112,11 @@ Reading List for Vision Language Models
 
   [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/pdf/2404.07214)
 
-  [https://arxiv.org/pdf/2202.09061](A survey on Vision-Language Pre-training)
+  [VLP: A survey on Vision-Language Pre-training](https://arxiv.org/pdf/2202.09061) 
+
+  [Vision-Language Pretraining: Current Trends and the Future](https://aclanthology.org/2022.acl-tutorials.7.pdf) `IDAP||Deepmind`
+
+  
 
 * Generalist Agents
 
