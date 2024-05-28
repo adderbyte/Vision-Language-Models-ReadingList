@@ -112,6 +112,8 @@ Reading List for Vision Language Models
 
   [Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions](https://arxiv.org/pdf/2404.07214)
 
+  [https://arxiv.org/pdf/2202.09061](A survey on Vision-Language Pre-training)
+
 * Generalist Agents
 
   [A generalist agent](https://arxiv.org/abs/2205.06175)
