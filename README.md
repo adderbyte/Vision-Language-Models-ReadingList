@@ -104,7 +104,9 @@ Reading List for Vision Language Models
 
 * Vision-Language Models
 
-  ....
+  [Intro to Vision-Language Modelling](https://arxiv.org/pdf/2405.17247)
+
+  [Vision-Language Pre-Training: Basics, Recent Advances, and Future Trends ](https://arxiv.org/pdf/2210.09263)
 
 * Generalist Agents
 
