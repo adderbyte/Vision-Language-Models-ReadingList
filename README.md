@@ -18,6 +18,11 @@ Reading List for Vision Language Models
 
   [A survey of transformers (2021)](https://arxiv.org/abs/2106.04554)
 
+  - Hands-on Transformer Design
+      - [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+      - [Annotated transformer 2](https://nlp.seas.harvard.edu/annotated-transformer/)
+ 
+
   
 ----
 * Light and Efficient Transformers
