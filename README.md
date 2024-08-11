@@ -1,5 +1,5 @@
 ## Vision-Language-Models-ReadingList
-Reading List for Vision Language Models
+Reading List for Vision Language Models 
 
 ### Preliminaries
 
@@ -21,6 +21,8 @@ Reading List for Vision Language Models
   - Hands-on Transformer Design
       - [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
       - [Annotated transformer 2](https://nlp.seas.harvard.edu/annotated-transformer/)
+
+  - [LLM Reading list](https://github.com/evanmiller/LLM-Reading-List)
  
 
   
