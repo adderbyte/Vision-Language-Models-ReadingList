@@ -24,6 +24,8 @@ Reading List for Vision Language Models
 
   - [LLM Reading list](https://github.com/evanmiller/LLM-Reading-List)
  
+  - [Auto-regressive Models](https://www.georgeho.org/deep-autoregressive-models/)
+ 
 
   
 ----
